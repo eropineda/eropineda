@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning Docker and Angular  
 
-  - 🌱 I’m currently learning Asp .Net Core 5
+- 🌱 I’m currently learning Asp .Net Core 5
 
 </td></tr></table>  
 
